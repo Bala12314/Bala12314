@@ -1,83 +1,163 @@
-<h1 align="center">Hi there, I'm Abhishek Kaushal 👋</h1>
+# Hi 👋, I'm Abhishek Kaushal
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="400">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Enthusiast;Python+Developer;Machine+Learning+Learner;Arduino+%26+IoT+Explorer;Future+AI+Engineer" />
 </p>
-
-## 🙋‍♂️ About Me
-
-- 🎓 B.Tech in CSE (Data Science & AI) student at **SRM University, Delhi-NCR, Sonepat, Haryana**
-- 💡 Passionate about **Artificial Intelligence**, **Data Science**, and **Hardware/IoT automation**
-- 🐍 Certified in **Python Programming** (IBM Developer Skills Network)
-- 🔌 Certified in **Arduino Microcontrollers**, love building AI-powered hardware projects
-- 🌱 Currently exploring machine learning and sensor-driven automation
-- 🎯 Analytical thinker who enjoys turning data into insights
-- ⚡ Fun fact: I mix code with circuits — Python scripts talking to Arduino sensors!
-
-## 🛠️ Technical Skills
-
-**Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Specialization**
-- Artificial Intelligence
-- Data Science Foundations
-
-**Hardware / IoT**
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-- Sensor Integration
-- Circuit Design
-
-**Tools**
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-**Soft Skills**
-- Analytical Thinking
-- Technical Documentation
-
-## 🎓 Education
-
-| Institution | Degree | 
-|---|---|
-| SRM University, Delhi-NCR, Sonepat, Haryana | B.Tech, CSE (Data Science & AI) |
-| Maharishi Vidya Mandir Sr. Sec. School, Nadaun | 10th & 12th |
-
-## 🚀 Academic Projects
-
-### 🔧 AI-Based Hardware Automation (Arduino + Python)
-Developed a system where Python scripts process data received from Arduino sensors to perform automated tasks like RC car control and room temperature detection using RGB light feedback.
-
-### 📊 Data Analysis Project (Python Sales Analysis)
-Used Python libraries (Pandas, NumPy, Matplotlib, Heatmap) to analyze a sample sales dataset, visualize trends, and clean/pre-process data to improve accuracy for a basic AI model.
-
-## 📜 Certifications
-
-- ✅ [Python Programming — IBM Developer Skills Network](https://courses.srmuh.skillsnetwork.site/certificates/bcf7f3ba027a4fa8acd4d4c47c8e0346)
-- ✅ Arduino Workshop Participant — SRM College
-- ✅ Registered under MHRD IIC — Reg: IC201912379
-- ✅ [Python & Machine Learning — Devtown](https://cert.devtown.in/verify/Z1tgL2e)
-- ✅ [Artificial Intelligence — Devtown](https://cert.devtown.in.tech/verify/ZBDxR)
-
-## 🎮 Hobbies
-
-- 🏏 Playing Cricket
-- 🕹️ Strategy Gaming (PC Games)
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kaushal-29b051268)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bala12314)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kaushalabhishek542@gmail.com)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
 </p>
 
-<p align="center"><i>Thanks for visiting my profile! ⭐ from someone will be appreciated!</i></p>
+---
 
-⭐ If you like this project, don't forget to star the repository!
+## 🚀 About Me
+
+🎓 B.Tech CSE (AI & Data Science) Student
+
+💻 Passionate about Artificial Intelligence, Data Science, and Python Development
+
+🤖 Building projects with Machine Learning and Arduino Automation
+
+📊 Love transforming raw data into meaningful insights
+
+🌱 Currently learning Advanced Machine Learning and Generative AI
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql)
+
+### Data Science & AI
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+
+### Tools
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Bala12314&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bala12314&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bala12314&theme=tokyonight"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Diwali Sales Analysis
+
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Customer Purchase Insights
+* Data Visualization using Python
+
+### 🤖 AI-Based Hardware Automation
+
+* Arduino + Python Integration
+* RC Car Automation
+* Temperature Monitoring System
+* RGB Smart Indicator System
+
+---
+
+## 🎓 Certifications
+
+🏅 Python Programming – IBM Developer Skills Network
+
+🏅 Machine Learning – Devtown
+
+🏅 Artificial Intelligence – Devtown
+
+🏅 Arduino Workshop – SRM University
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/Bala12314">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/abhishek-kaushal-29b051268">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bala12314&label=Profile+Views&color=blue&style=for-the-badge">
+</p>
+
+<p align="center">
+⭐ "Turning Data into Insights and Ideas into Innovation" ⭐
+</p>
+
+## 🏆 Certifications
+
+### 📜 IBM Developer Skills Network
+
+**Python Programming Certification**
+
+🔗 Certificate: https://courses.srmuh.skillsnetwork.site/certificates/bcf7f3ba027a4fa8acd4d4c47c8e0346
+
+---
+
+### 🤖 Devtown
+
+**Python & Machine Learning**
+
+🔗 Certificate: https://cert.devtown.in/verify/Z1tgL2e
+
+---
+
+### 🧠 Devtown
+
+**Artificial Intelligence**
+
+🔗 Certificate: https://cert.devtown.in.tech/verify/ZBDxR
+
+---
+
+### 🔧 SRM University
+
+**Arduino Workshop**
+
+📍 Registered under MHRD IIC (IC201912379)
+
+---
+
+## 🎖️ Certification Badges
+
+<p align="left">
+  <img src="https://img.shields.io/badge/IBM-Python%20Certified-blue?style=for-the-badge&logo=IBM">
+  <img src="https://img.shields.io/badge/Devtown-Machine%20Learning-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Devtown-Artificial%20Intelligence-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Arduino-Workshop-teal?style=for-the-badge&logo=arduino">
+</p>
+
