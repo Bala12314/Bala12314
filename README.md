@@ -80,3 +80,4 @@ Used Python libraries (Pandas, NumPy, Matplotlib, Heatmap) to analyze a sample s
 
 <p align="center"><i>Thanks for visiting my profile! ⭐ from someone will be appreciated!</i></p>
 
+⭐ If you like this project, don't forget to star the repository!
