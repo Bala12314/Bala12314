@@ -49,8 +49,6 @@
 
 ---
 
-
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -63,6 +61,10 @@
 
 ### 📊 Diwali Sales Analysis
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="400">
+</p>
+
 * Data Cleaning & Preprocessing
 * Exploratory Data Analysis (EDA)
 * Customer Purchase Insights
@@ -70,10 +72,38 @@
 
 ### 🤖 AI-Based Hardware Automation
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400">
+</p>
+
 * Arduino + Python Integration
 * RC Car Automation
 * Temperature Monitoring System
 * RGB Smart Indicator System
+
+### 📈 Stock Market Prediction using Reinforcement Learning
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="400">
+</p>
+
+* Built a trading agent using Reinforcement Learning (RL) to make buy/sell/hold decisions on historical stock data
+* Designed a custom trading environment with state, action, and reward functions
+* Implemented Q-Learning / Deep Q-Network (DQN) based agent for price trend prediction
+* Backtested strategy performance against traditional buy-and-hold benchmarks
+* Visualized agent's learning curve, rewards, and portfolio value over time
+
+### 🎙️ Real-Time Voice Translator
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400">
+</p>
+
+* Real-time speech-to-speech translation across multiple languages
+* Speech recognition using Python (Speech Recognition / Whisper)
+* Language translation using NLP-based translation APIs
+* Text-to-Speech (TTS) conversion for natural voice output
+* Low-latency pipeline for near real-time conversation translation
 
 ---
 
