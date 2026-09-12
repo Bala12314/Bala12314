@@ -105,6 +105,54 @@
 * Text-to-Speech (TTS) conversion for natural voice output
 * Low-latency pipeline for near real-time conversation translation
 
+### 🎯 Object Detection System
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="400">
+</p>
+
+* Real-time object detection using YOLO / OpenCV
+* Trained and fine-tuned custom detection models
+* Bounding box visualization with confidence scores
+* Optimized for live webcam and video feed inference
+* Applications in surveillance and automation
+
+### 🔐 Facial Recognition Laptop Unlock System
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400">
+</p>
+
+* Face detection and recognition using OpenCV & Python
+* Real-time webcam-based authentication to unlock/lock the laptop
+* Trained facial embeddings for secure user identification
+* Fallback security with liveness/anti-spoofing checks
+* Automated screen lock trigger when face is not recognized
+
+### 🏥 Healthcare Chatbot
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="400">
+</p>
+
+* NLP-based conversational chatbot for symptom analysis
+* Trained intent classification model for medical queries
+* Provides preliminary health guidance and precautionary advice
+* Built with Python, NLTK/Transformers, and Flask
+* Designed with an easy-to-use conversational interface
+
+### 🧠 Personal AI Assistant
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400">
+</p>
+
+* Voice-controlled personal assistant built with Python
+* Speech recognition and text-to-speech integration
+* Automates tasks like web search, reminders, and app control
+* NLP-based command understanding and response generation
+* Modular design for adding new skills/commands easily
+
 ---
 
 ## 🎓 Certifications
