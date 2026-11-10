@@ -28,24 +28,24 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 
 ### Data Science & AI
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 
 ### Tools
 
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
@@ -59,7 +59,31 @@
 
 ## 🚀 Featured Projects
 
-### 📊 Diwali Sales Analysis
+<h3 align="center">🆕 <a href="https://github.com/Bala12314/habitscope"><img src="https://img.shields.io/badge/HabitScope-36BCF7?style=for-the-badge" alt="HabitScope"></a></h3>
+
+<p align="center"><b>AI Life Assistant for Your Daily Habits</b></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bala12314/habitscope/main/assets/demo.gif" alt="HabitScope demo" width="700">
+</p>
+
+A **local-first AI assistant** that turns your smartwatch and phone data into a daily performance score, habit insights and personal coaching. Your data never leaves your machine.
+
+* 📊 Daily performance score (0–100) combining activity, sleep, recovery and phone habits, judged against your own baseline
+* 🔍 Detects 7 bad habits (late bedtime, night scrolling, 2+ hours on social apps) and 5 good ones, with trends and streaks
+* 🧠 Finds patterns in your own data, such as late-night phone use followed by shorter sleep
+* 🤖 Daily coach: one focus habit, a concrete tip and today's targets, working offline
+* 📈 Self-contained HTML dashboard with a performance chart
+* 📥 Imports Apple Health, Fitbit, Garmin, Google Fit, Samsung and phone app-usage files
+* 🛠 Built with `Python 3.10+` (standard library only), `HTML/CSS`, `GitHub Actions`, optional `Anthropic API`
+
+<p align="center">
+  <a href="https://github.com/Bala12314/habitscope">
+    <img src="https://img.shields.io/badge/View%20Project-HabitScope-36BCF7?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+<h3 align="center">📊 <img src="https://img.shields.io/badge/Diwali_Sales_Analysis-FF6F00?style=for-the-badge" alt="Diwali Sales Analysis"></h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="400">
@@ -70,7 +94,7 @@
 * Customer Purchase Insights
 * Data Visualization using Python
 
-### 🤖 AI-Based Hardware Automation
+<h3 align="center">🤖 <img src="https://img.shields.io/badge/AI--Based_Hardware_Automation-00599C?style=for-the-badge" alt="AI-Based Hardware Automation"></h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400">
@@ -81,7 +105,7 @@
 * Temperature Monitoring System
 * RGB Smart Indicator System
 
-### 📈 Stock Market Prediction using Reinforcement Learning
+<h3 align="center">📈 <img src="https://img.shields.io/badge/Stock_Market_Prediction_using_Reinforcement_Learning-2E8B57?style=for-the-badge" alt="Stock Market Prediction using Reinforcement Learning"></h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="400">
@@ -93,7 +117,7 @@
 * Backtested strategy performance against traditional buy-and-hold benchmarks
 * Visualized agent's learning curve, rewards, and portfolio value over time
 
-### 🎙️ Real-Time Voice Translator
+<h3 align="center">🎙️ <img src="https://img.shields.io/badge/Real--Time_Voice_Translator-8E44AD?style=for-the-badge" alt="Real-Time Voice Translator"></h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400">
@@ -105,7 +129,7 @@
 * Text-to-Speech (TTS) conversion for natural voice output
 * Low-latency pipeline for near real-time conversation translation
 
-### 🎯 Object Detection System
+<h3 align="center">🎯 <img src="https://img.shields.io/badge/Object_Detection_System-D14836?style=for-the-badge" alt="Object Detection System"></h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="400">
@@ -117,7 +141,7 @@
 * Optimized for live webcam and video feed inference
 * Applications in surveillance and automation
 
-### 🔐 Facial Recognition Laptop Unlock System
+<h3 align="center">🔐 <img src="https://img.shields.io/badge/Facial_Recognition_Laptop_Unlock_System-181717?style=for-the-badge" alt="Facial Recognition Laptop Unlock System"></h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400">
@@ -129,7 +153,7 @@
 * Fallback security with liveness/anti-spoofing checks
 * Automated screen lock trigger when face is not recognized
 
-### 🏥 Healthcare Chatbot
+<h3 align="center">🏥 <img src="https://img.shields.io/badge/Healthcare_Chatbot-0077B5?style=for-the-badge" alt="Healthcare Chatbot"></h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="400">
@@ -141,7 +165,7 @@
 * Built with Python, NLTK/Transformers, and Flask
 * Designed with an easy-to-use conversational interface
 
-### 🧠 Personal AI Assistant
+<h3 align="center">🧠 <img src="https://img.shields.io/badge/Personal_AI_Assistant-F37626?style=for-the-badge" alt="Personal AI Assistant"></h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400">
